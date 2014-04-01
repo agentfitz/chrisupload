@@ -1,6 +1,6 @@
 <?php
 
-	// general variables
+	// general variables are cool
 	$allowedExts = array("gif", "jpeg", "jpg", "png");
 	$allowedTypes = array("image/gif", "image/jpeg", "image/pjpeg", "image/x-png", "image/png");
 	$tempFileName = $_FILES["file"]["tmp_name"];
