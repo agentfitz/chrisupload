@@ -1,6 +1,6 @@
 <?php
 
-	// general variables are cool
+	// general variables are cool, so is mobile ssh
 	$allowedExts = array("gif", "jpeg", "jpg", "png");
 	$allowedTypes = array("image/gif", "image/jpeg", "image/pjpeg", "image/x-png", "image/png");
 	$tempFileName = $_FILES["file"]["tmp_name"];
